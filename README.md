@@ -1,6 +1,6 @@
 # Music Driven Recommender for Hobbies and Songs levraging(NLP,Sentiment Analysis)
 
-For complete documentation and instructions, please refer to the [NLP-Model-Dissertation.pdf](./Arjun-Sasi/Music-Driven-Sentiment-Analysis-and-Based-on-Songs-and-Hobbies-to-go-with-Recommendations./blob/main/NLP-Model-Dissertation%20.pdf) file in this directory.
+For complete documentation and instructions, please refer to the [NLP-Model-Dissertation.pdf](./NLP-Model-Dissertation%20.pdf) file in this directory.
 
 ---
 
